@@ -1,4 +1,4 @@
-# artificial-intelligence
+# Artificial-Intelligence
 Artificial intelligence course projects, Fall 2018-2019.
 
 # Projects
