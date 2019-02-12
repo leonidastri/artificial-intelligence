@@ -1,6 +1,8 @@
 # artificial-intelligence
 Artificial intelligence course projects, Fall 2018-2019.
 
+# Projects
+
 ## UC Berkeley CS188 Intro to AI(http://ai.berkeley.edu/project_overview.html) :
 
 <ul>
@@ -15,7 +17,9 @@ Artificial intelligence course projects, Fall 2018-2019.
    </li>
 </ul>
 
-## KenKen Puzzle Solver (https://en.wikipedia.org/wiki/KenKen) : A contraint programming project for solving KenKen puzzles
+## KenKen Puzzle Solver (https://en.wikipedia.org/wiki/KenKen) :
+<br />
+A contraint programming project for solving KenKen puzzles
   
 ### How to run :
 
